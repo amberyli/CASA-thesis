@@ -1,2 +1,3 @@
-There is only one file, the NetLogo model of my thesis.
-Please download it for complete operation.
+# Code and outputs
+
+Here is to store the codes of NetLogo and the outputs from BehaviorSpace.
